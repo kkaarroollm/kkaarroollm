@@ -1,5 +1,5 @@
 <h1 align="center">i'm karol marszalek</h1>
-<h3 align="center">inspiring full-stack developer, cs student, mainly backend and dev-ops areas.</h3>
+<h3 align="center">full-stack developer, cs student, mainly backend and dev-ops areas.</h3>
 <br><br>
 
 portfolio website:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[karolmarszalek.me](https://karolmarszalek.me)

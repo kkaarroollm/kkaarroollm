@@ -8,7 +8,7 @@ portfolio website:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 
 <br><br>
 
-most of mine project are self-hosted on **Raspberry Pi**, mainly on Kubernetes cluster
+most of my projects are self-hosted on **Raspberry Pi**, mainly on Kubernetes cluster
 
 <h1 align="center">certifications</h1>
 <h3 align="center">
